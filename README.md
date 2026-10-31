@@ -132,6 +132,12 @@ Join **OctoDad's Mods** on [Discord](https://discord.gg/RueyvSfX7R) for question
 bug reports and future mods. Include your mod version and the relevant BepInEx
 log when reporting a problem.
 
+## Support Studio Bascinet
+
+Enjoying the mod? Optional donations help support Studio Bascinet's mod development. Thank you for your support.
+
+[![Donate with PayPal button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=BUC6767NR59C8)
+
 ## Credits and AI disclosure
 
 Created by **OctoDad / Studio Bascinet**.
